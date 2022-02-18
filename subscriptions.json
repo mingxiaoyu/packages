@@ -32,10 +32,6 @@
   },
   {
     "Type": "svn",
-    "Url": "https://github.com/coolsnowwolf/luci/blob/master/applications/luci-app-zerotier"
-  },
-  {
-    "Type": "svn",
     "Url": "https://github.com/coolsnowwolf/packages/blob/master/net/vlmcsd"
   },
   {
