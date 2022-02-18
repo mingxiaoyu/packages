@@ -1,0 +1,69 @@
+[
+  {
+    "Branch": "master",
+    "Type": "git",
+    "Url": "https://github.com/tty228/luci-app-serverchan"
+  },
+  {
+    "Branch": "master",
+    "Type": "git",
+    "Url": "https://github.com/jerrykuku/luci-theme-argon"
+  },
+  {
+    "Branch": "master",
+    "Type": "git",
+    "Url": "https://github.com/jerrykuku/luci-app-argon-config"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/lisaac/luci-app-dockerman/tree/master/applications/luci-app-dockerman"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/immortalwrt/packages/blob/master/net/cdnspeedtest"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/luci/blob/master/applications/luci-app-turboacc"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/luci/blob/master/applications/luci-app-v2ray-server"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/luci/blob/master/applications/luci-app-netdata"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/luci/blob/master/applications/luci-app-zerotier"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/packages/blob/master/net/vlmcsd"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/packages/blob/master/net/uugamebooster"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/lede/tree/master/package/lean/shortcut-fe/fast-classifier"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/lede/tree/master/package/lean/shortcut-fe/shortcut-fe"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/lede/tree/master/package/lean/shortcut-fe/simulated-driver"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/packages/blob/master/net/dnsproxy"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/packages/blob/master/net/dnsforwarder"
+  }
+]
