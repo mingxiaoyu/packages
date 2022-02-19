@@ -20,6 +20,10 @@
   },
   {
     "Type": "svn",
+    "Url": "https://github.com/immortalwrt/packages/blob/master/net/cdnspeedtest"
+  },
+  {
+    "Type": "svn",
     "Url": "https://github.com/coolsnowwolf/luci/blob/master/applications/luci-app-turboacc"
   },
   {
@@ -29,6 +33,18 @@
   {
     "Type": "svn",
     "Url": "https://github.com/coolsnowwolf/luci/blob/master/applications/luci-app-netdata"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/luci/blob/master/applications/luci-app-zerotier"
+  },
+  {
+    "Type": "svn",
+    "Url": " https://github.com/coolsnowwolf/luci/tree/master/applications/luci-app-vlmcsd"
+  },
+  {
+    "Type": "svn",
+    "Url": " https://github.com/coolsnowwolf/luci/tree/master/applications/luci-app-uugamebooster"
   },
   {
     "Type": "svn",
