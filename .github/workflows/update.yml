@@ -5,8 +5,9 @@ env:
 
 on:
   workflow_dispatch:
-
-jobs:
+  schedule:
+    - cron: 0 */18 * * *
+jobs:s
   build:
     runs-on: ubuntu-latest
 
