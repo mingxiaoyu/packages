@@ -73,10 +73,13 @@
   {
     "Type": "svn",
     "Url": "https://github.com/coolsnowwolf/packages/blob/master/net/dnsforwarder"
-  }
-  ,
+  },
   {
     "Type": "svn",
     "Url": "https://github.com/coolsnowwolf/lede/tree/master/package/lean/openwrt-fullconenat"
-  }  
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/openwrt/packages/tree/master/net/frp"
+  } 
 ]
