@@ -81,5 +81,9 @@
   {
     "Type": "svn",
     "Url": "https://github.com/openwrt/packages/tree/master/net/frp"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/luci/blob/master/applications/luci-app-syncdial"
   } 
 ]
