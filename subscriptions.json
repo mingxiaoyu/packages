@@ -85,5 +85,9 @@
   {
     "Type": "svn",
     "Url": "https://github.com/coolsnowwolf/luci/blob/master/applications/luci-app-syncdial"
+  } ,
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/luci/blob/master/net/pdnsd-alt/Makefile"
   } 
 ]
