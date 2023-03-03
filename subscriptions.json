@@ -60,11 +60,11 @@
   },
   {
     "Type": "svn",
-    "Url": "https://github.com/coolsnowwolf/lede/tree/master/package/lean/shortcut-fe/shortcut-fe"
+    "Url": "https://github.com/mingxiaoyu/lede/tree/master/package/lean/shortcut-fe/shortcut-fe"
   },
   {
     "Type": "svn",
-    "Url": "https://github.com/coolsnowwolf/lede/tree/master/package/lean/shortcut-fe/simulated-driver"
+    "Url": "https://github.com/mingxiaoyu/lede/tree/master/package/lean/shortcut-fe/simulated-driver"
   },
   {
     "Type": "svn",
@@ -76,7 +76,7 @@
   },
   {
     "Type": "svn",
-    "Url": "https://github.com/coolsnowwolf/lede/tree/master/package/lean/openwrt-fullconenat"
+    "Url": "https://github.com/mingxiaoyu/lede/tree/master/package/lean/openwrt-fullconenat"
   },
   {
     "Type": "svn",
