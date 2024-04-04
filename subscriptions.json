@@ -89,5 +89,13 @@
   {
     "Type": "svn",
     "Url": "https://github.com/coolsnowwolf/packages/blob/master/net/pdnsd-alt"
+  },
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/packages/tree/master/net/phtunnel"
+  } ,
+  {
+    "Type": "svn",
+    "Url": "https://github.com/coolsnowwolf/luci/tree/master/applications/luci-app-phtunnel"
   } 
 ]
