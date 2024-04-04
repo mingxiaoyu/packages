@@ -92,10 +92,10 @@
   },
   {
     "Type": "svn",
-    "Url": "https://github.com/coolsnowwolf/packages/tree/master/net/phtunnel"
+    "Url": "https://github.com/coolsnowwolf/packages/blob/master/net/phtunnel"
   } ,
   {
     "Type": "svn",
-    "Url": "https://github.com/coolsnowwolf/luci/tree/master/applications/luci-app-phtunnel"
+    "Url": "https://github.com/coolsnowwolf/luci/blob/master/applications/luci-app-phtunnel"
   } 
 ]
